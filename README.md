@@ -6,15 +6,15 @@
   <br>
 </h1>
 
-<h4 align="center">A weather application built on <a href="http://electron.atom.io" target="_blank">.NET MAUI</a>.</h4>
+<h4 align="center">A weather application built on .NET MAUI.</h4>
 
 
-![screenshot](/src/emugif.gif)
+![screenshot](MAUIWeather/src/emugif.gif)
 
 ## Key Features
 
 * MVVM
-* [Syntax highlighting](https://open-meteo.com/) Web API
+* open-meteo.com Web API
 * Converters
 * MAUI Location
 * Lottie Animations
