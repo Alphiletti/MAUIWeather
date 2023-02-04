@@ -8,7 +8,7 @@
 
 <h4 align="center">A weather application built on .NET MAUI.</h4>
 
-<img src="MAUIWeather/src/emugif.gif" width="1080" height="2340">
+<img src="MAUIWeather/src/emugif.gif" width="540" height="1620">
 
 ## Key Features
 
